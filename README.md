@@ -41,8 +41,7 @@ git clone https://github.com/hadipashaw/uniClasses.git
 
 ## 📄 لایسنس
 
-_(اینجا لایسنس پروژه را مشخص کن — مثلاً MIT)_
-
+این پروژه تحت لایسنس [MIT](LICENSE) منتشر شده است.
 ---
 
 ساخته شده توسط [hadipashaw](https://github.com/hadipashaw)
